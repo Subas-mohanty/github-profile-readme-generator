@@ -179,7 +179,7 @@ exports[`Addons should display workflow details if devDynamicBlogs and dev socia
           "color": "#002ead",
         }
       }
-      target="blank"
+      target="_blank"
     >
        
       how to setup
@@ -220,7 +220,7 @@ exports[`Addons should display workflow details if mediumDynamicBlogs, medium so
           "color": "#002ead",
         }
       }
-      target="blank"
+      target="_blank"
     >
        
       how to setup
@@ -261,7 +261,7 @@ exports[`Addons should display workflow details if rssDynamicBlogs and rss url d
           "color": "#002ead",
         }
       }
-      target="blank"
+      target="_blank"
     >
        
       how to setup
@@ -966,7 +966,7 @@ exports[`Addons should render Customize Badges 1`] = `
               "color": "#002ead",
             }
           }
-          target="blank"
+          target="_blank"
         >
            
           how to setup
@@ -1768,7 +1768,7 @@ exports[`Addons should render Customize Github stats card 1`] = `
               "color": "#002ead",
             }
           }
-          target="blank"
+          target="_blank"
         >
            
           how to setup
@@ -2570,7 +2570,7 @@ exports[`Addons should render Customize Top Skills Card 1`] = `
               "color": "#002ead",
             }
           }
-          target="blank"
+          target="_blank"
         >
            
           how to setup

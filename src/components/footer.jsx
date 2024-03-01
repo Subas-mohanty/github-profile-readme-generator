@@ -47,7 +47,7 @@ const Footer = () => (
           <a
             href="https://github.com/rahuldkjain/github-profile-readme-generator"
             aria-label="Github rahuldkjain/github-profile-readme-generator"
-            target="blank"
+            target="_blank"
           >
             Github
           </a>
@@ -56,7 +56,7 @@ const Footer = () => (
           <a
             href="https://github.com/rahuldkjain/github-profile-readme-generator/releases"
             aria-label="Releases on Github rahuldkjain/github-profile-readme-generator"
-            target="blank"
+            target="_blank"
           >
             Releases
           </a>
@@ -65,7 +65,7 @@ const Footer = () => (
           <a
             href="https://github.com/rahuldkjain/github-profile-readme-generator/issues"
             aria-label="Issues in rahuldkjain/github-profile-readme-generator"
-            target="blank"
+            target="_blank"
           >
             Issues
           </a>
@@ -74,7 +74,7 @@ const Footer = () => (
           <a
             href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls"
             aria-label="Pull Requests in rahuldkjain/github-profile-readme-generator"
-            target="blank"
+            target="_blank"
           >
             Pull Requests
           </a>
@@ -85,7 +85,7 @@ const Footer = () => (
           <strong>Join Community</strong>
         </div>
         <div className="ml-2 sm:ml-0">
-          <a href="https://discord.gg/HHMs7Eg" aria-label="Discord of the community" target="blank">
+          <a href="https://discord.gg/HHMs7Eg" aria-label="Discord of the community" target="_blank">
             <img src={discord} className="h-12" alt="Discord of the community" />
           </a>
         </div>

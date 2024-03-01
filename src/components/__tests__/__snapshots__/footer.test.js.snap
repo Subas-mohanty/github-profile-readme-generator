@@ -108,7 +108,7 @@ exports[`Footer component renders correctly 1`] = `
         <a
           aria-label="Github rahuldkjain/github-profile-readme-generator"
           href="https://github.com/rahuldkjain/github-profile-readme-generator"
-          target="blank"
+          target="_blank"
         >
           Github
         </a>
@@ -119,7 +119,7 @@ exports[`Footer component renders correctly 1`] = `
         <a
           aria-label="Releases on Github rahuldkjain/github-profile-readme-generator"
           href="https://github.com/rahuldkjain/github-profile-readme-generator/releases"
-          target="blank"
+          target="_blank"
         >
           Releases
         </a>
@@ -130,7 +130,7 @@ exports[`Footer component renders correctly 1`] = `
         <a
           aria-label="Issues in rahuldkjain/github-profile-readme-generator"
           href="https://github.com/rahuldkjain/github-profile-readme-generator/issues"
-          target="blank"
+          target="_blank"
         >
           Issues
         </a>
@@ -141,7 +141,7 @@ exports[`Footer component renders correctly 1`] = `
         <a
           aria-label="Pull Requests in rahuldkjain/github-profile-readme-generator"
           href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls"
-          target="blank"
+          target="_blank"
         >
           Pull Requests
         </a>
@@ -161,7 +161,7 @@ exports[`Footer component renders correctly 1`] = `
         <a
           aria-label="Discord of the community"
           href="https://discord.gg/HHMs7Eg"
-          target="blank"
+          target="_blank"
         >
           <img
             alt="Discord of the community"

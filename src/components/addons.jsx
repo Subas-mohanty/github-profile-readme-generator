@@ -459,7 +459,7 @@ const Addons = (props) => {
               blog-post-workflow.yml
             </span>{' '}
             file(learn
-            <a href={withPrefix(links.addons)} target="blank" style={{ color: '#002ead' }}>
+            <a href={withPrefix(links.addons)} target="_blank" style={{ color: '#002ead' }}>
               {' '}
               how to setup
             </a>

@@ -54,7 +54,7 @@ export const DisplayWork = (props) => {
       return (
         <div className="my-2">
           {`${prefix} `}
-          <a href={link} className="no-underline text-blue-700" target="blank">
+          <a href={link} className="no-underline text-blue-700" target="_blank">
             {project}
           </a>
         </div>
@@ -71,7 +71,7 @@ export const DisplayWork = (props) => {
     return (
       <div className="my-2">
         {`${prefix} `}
-        <a href={link} className="no-underline text-blue-700" target="blank">
+        <a href={link} className="no-underline text-blue-700" target="_blank">
           {link}
         </a>
       </div>
@@ -118,7 +118,7 @@ export const DisplaySocial = (props) => {
   const { username, base, icon } = props;
   if (username) {
     return (
-      <a className="no-underline text-blue-700 m-2" href={`${base}/${username}`} target="blank">
+      <a className="no-underline text-blue-700 m-2" href={`${base}/${username}`} target="_blank">
         <img className="w-6 h-6" src={icon} alt="username" />
       </a>
     );
